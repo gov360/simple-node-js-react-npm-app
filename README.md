@@ -1,14 +1,14 @@
-# simple-node-js-react-npm-app
+#simple-node-js-react-npm-app
 
-This repository is for the
-[Build a Node.js and React app with npm](https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/)
-tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
+这个存储库是为了
+[使用npm构建Node.js和React应用程序]（https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/）
+[Jenkins用户文档]（https://jenkins.io/doc/）中的教程。
 
-The repository contains a simple Node.js and React application which generates
-a web page with the content "Welcome to React" and is accompanied by a test to
-check that the application renders satisfactorily.
+存储库包含一个生成的简单Node.js和React应用程序
+一个内容为“欢迎来到React”的网页，附有测试版
+检查应用程序是否令人满意。
 
-The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
-you'll be creating yourself during the tutorial and the `scripts` subdirectory
-contains shell scripts with commands that are executed when Jenkins processes
-the "Test" and "Deliver" stages of your Pipeline.
+`jenkins`目录包含`Jenkinsfile`的示例（即Pipeline）
+你将在教程和`scripts`子目录中创建自己
+包含shell脚本，其中包含在Jenkins处理时执行的命令
+管道的“测试”和“交付”阶段。
